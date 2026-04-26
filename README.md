@@ -2,7 +2,7 @@
 
 I'm a builder who happens to have a director title. I spend my days leading digital, measurement, and ops teams — and my evenings building the systems I wish existed. Data products, AI agents, dashboards, automations, frameworks — if there's a problem worth solving, I'd rather describe it in working code than a slide deck.
 
-15+ years across retail, e-commerce, and consumer goods. Gap, Amway, Vera Bradley, Victoria's Secret, Meijer — and currently leading measurement, insights, campaign ops, and comm ops at a global health & wellness company.
+15+ years across retail, e-commerce, and consumer goods. Gap, Vera Bradley, Victoria's Secret, Meijer — and currently leading measurement, insights, campaign ops, and comm ops at a global health & wellness company.
 
 ---
 
