@@ -1,53 +1,83 @@
 # Hi, I'm Kate 👋
 
-I'm a builder who happens to have a director title. I spend my days leading digital, measurement, and ops teams — and my evenings building the systems I wish existed. Data products, AI agents, dashboards, automations, frameworks — if there's a problem worth solving, I'd rather describe it in working code than a slide deck.
+I'm a Director of Digital at a global company, a mother of three, a farm owner, and a Pilates instructor. I also ship AI tools almost every day — not because my job requires it, but because I can't stop.
 
-15+ years across retail, e-commerce, and consumer goods. Gap, Vera Bradley, Victoria's Secret, Meijer — and currently leading measurement, insights, campaign ops, and comm ops at a global health & wellness company.
-
----
-
-## What I'm building right now
-
-- 🤖 **Heidi** — a personal AI agent for morning briefings, weekly planning, and chief-of-staff tasks (Anthropic SDK + Claude Code)
-- 📊 **Analytics tools** — Power BI dashboards, measurement frameworks, and funnel visibility systems I can share publicly
-- 🌿 **Farm management tools** — I run a small farm (horses, dairy goats, bees, chickens) and the spreadsheets are genuinely out of control
-- ♑ **Astrology database** — a structured dataset of birth charts for friends and family, because of course I did
+I lead with strategy and execute with my hands. I think that combination is increasingly necessary.
 
 ---
 
-## How I think
+## On AI
 
-My CliftonStrengths top 5 — Learner, Futurist, Competition, Focus, Maximizer — are a pretty accurate map of how I operate. I absorb new domains fast, I'm wired to see what's possible rather than what exists, and I don't really know how to do something halfway. I lead with Strategic Thinking, which means I'm most useful when there's a messy problem that needs a clear framework and someone willing to stay on it until it's actually solved.
+I have a point of view: the leaders who will shape how organizations adopt AI are the ones who've actually operated it — who understand the failure modes, the cost structures, the security surface area, the difference between a good system prompt and a great one. Reading about it isn't the same as building with it.
 
-In practice: I walk into broken orgs and see the intake problem, the handoff gap, the measurement void, and the team structure issue — usually before anyone's named them. I've built BI Centers of Excellence, stood up intake and ops infrastructure from scratch, and created teams where people grow and stick around because the environment was worth staying for.
+So I build with it. Constantly.
 
-I translate between technical and business. I build things that last. I care about the humans using them.
+In the past several months I've shipped agents, apps, automations, and tools at a pace that's surprised even me. Some are professional. Some are personal. All of them have made me sharper — faster at understanding where AI creates real leverage, more fluent in the workflows, more honest about where it falls short. I understand multi-agent architecture, session cost management, OAuth integrations, context design, and prompt engineering not because I studied them but because I ran into them while building real things.
 
-**Currently learning:** Python (properly, not just copying Stack Overflow), German (A2 and climbing), and what it actually takes to build AI tools worth trusting.
+My personal AI infrastructure — a system of named agents covering home operations, health, finances, career planning, work ops, and horse training — is the most ambitious expression of this. But it's one project among many. The throughline is the pace and the intentionality: I am constantly learning, constantly shipping, constantly recalibrating.
 
----
+At work, I'm applying the same thinking at organizational scale. I'm building a Commercial Realization Engine — a connected operating system where measurement and experience delivery operate as co-equal systems. Measurement drives decisioning. Communications Platform delivers the experience. Together they power commercial performance. AI sits inside that model as an enabler of prioritization, personalization, insight generation, and experience orchestration — not a separate initiative bolted on top.
 
-## The stack
-
-`SQL` `Power BI` `Python` `dbt` `Google Analytics` `Anthropic Claude` `Next.js` `Prisma` `Tailwind`
-
-*(Some of these I wield with confidence. Some I'm still figuring out. The ratio is improving.)*
+I believe the skill of management is increasingly the skill of AI. I'm positioning myself accordingly.
 
 ---
 
-## A few true things
+## The Career
 
-- I built my first team from scratch and some of them are still the best professionals I've ever worked with
-- I have a 17-hand gray Percheron/Thoroughbred named Odin — and yes, he lives on the farm
-- I got into AI agents because I wanted to understand what I was recommending to my org — now I'm a little obsessed
-- Maximizer is probably my most accurate strength: good enough has never once felt like enough
+16+ years in data and digital. The through-line: I build things from zero to one.
+
+- Built Gap Inc.'s Digital Analytics function from scratch, then built the Enterprise BI Center of Excellence — 5,000+ weekly active users across a $16B brand portfolio (Old Navy, Gap, Banana Republic, Athleta), then led Customer Data Strategy - bringing together business requirements + technical delivery.
+- Built Herbalife's global digital performance organization — measurement strategy, campaign ops, and comms platform across global markets
+- Scaled digital analytics capabilities supporting $5B+ in e-commerce revenue
+- Presented digital strategy to boards and executive leadership teams across multiple organizations
+
+I'm at my best when the org is a blank slate and someone needs to build the system that didn't exist yet. I design operating models, stand up new capabilities, and connect measurement to commercial outcomes across markets.
+
+CliftonStrengths top 5: **Learner · Futurist · Competition · Focus · Maximizer.** Strategic Thinking domain. I absorb new domains fast, see what's possible before others name it, and don't know how to do something halfway.
+
+---
+
+## The Rest of It
+
+MBA in Business Analytics (Ohio University). Communications undergrad, top thesis award (Grand Valley State). Certified Pilates instructor — I teach in Ada, Michigan and hold a prenatal/postpartum specialty. Certified Scrum Product Owner. Design Thinking practitioner.
+
+I run a small farm in West Michigan: a 17-hand Warmblood named Odin, a little pony named Snickerdoodles, bees, chickens, ducks, and a dog. I've considered getting a PhD purely because I love learning that much. Currently studying Python and German (A2 — the French club in college helped lay the groundwork).
+
+The reason I build any of this: I'm a mother of three young kids trying to be the best version of myself for them while building a fulfilling career and actually showing up for my hobbies. Anything that makes my life run smoother is in service to those things.
+
+---
+
+## Stack
+
+**AI & Agents**
+`Anthropic API` `Claude Code` `OpenAI API` `Gemini` `Perplexity` `LangChain` `Cursor`
+
+**Data & Analytics**
+`SQL` `Python` `Power BI` `Tableau` `Looker` `Amplitude` `Heap` `Google Analytics` `Adobe Analytics` `Snowflake` `BigQuery` `Databricks`
+
+**Marketing & Experience**
+`Salesforce Marketing Cloud` `Salesforce CRM` `Braze` `Adobe Experience Platform` `Tealium` `Adobe Launch` `Adobe Target` `Optimizely`
+
+**Measurement & Tagging**
+`Google Tag Manager` `Tealium` `LaunchDarkly`
+
+**Automation & Integration**
+`Make.com` `Zapier` `Power Automate` `Power Apps` `Google APIs (Gmail · Calendar · Sheets · Docs · Drive)` `OAuth 2.0` `Telegram Bot API` `Oura API` `Apple HealthKit` `Natural Cycles API`
+
+**Engineering & Delivery**
+`Azure DevOps` `AWS` `GitHub Actions` `Git` `Vercel` `VS Code` `Jira` `Confluence`
+
+**Productivity & Ops**
+`SharePoint` `Slack` `Microsoft Teams` `Granola` `OmniFocus` `Obsidian` `Figma` `Gamma`
+
+*(Some of these I wield with confidence. Some I'm still earning. The ratio is improving fast.)*
 
 ---
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kate-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kate_Haan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/katehaan/)
 
 ---
 
-*Always open to connecting with people building interesting things.*
+*Builder. Strategist. Daily shipper. Farmer. Somehow doing all of it at once.*
