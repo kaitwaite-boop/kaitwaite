@@ -70,7 +70,7 @@ The reason I build any of this: I'm a mother of three young kids trying to be th
 **Productivity & Ops**
 `SharePoint` `Slack` `Microsoft Teams` `Granola` `OmniFocus` `Obsidian` `Figma` `Gamma`
 
-*(Some of these I wield with confidence. Some I'm still earning. The ratio is improving fast.)*
+*(Some of these I wield with confidence. Some I'm still learning. The ratio is improving fast.)*
 
 ---
 
