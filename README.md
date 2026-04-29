@@ -12,7 +12,7 @@ I have a point of view: the leaders who will shape how organizations adopt AI ar
 
 So I build with it. Constantly.
 
-In the past several months I've shipped agents, apps, automations, and tools at a pace that's surprised even me. Some are professional. Some are personal. All of them have made me sharper — faster at understanding where AI creates real leverage, more fluent in the workflows, more honest about where it falls short. I understand multi-agent architecture, session cost management, OAuth integrations, context design, and prompt engineering not because I studied them but because I ran into them while building real things.
+In the past several months I've shipped agents, apps, automations, and tools at a pace that's surprised even me. Some are professional. Some are personal. All of them have made me sharper & faster at understanding where AI creates real leverage, more fluent in the workflows, more honest about where it falls short. I understand multi-agent architecture, session cost management, OAuth integrations, context design, and prompt engineering not because I studied them but because I ran into them while building real things.
 
 My personal AI infrastructure — a system of named agents covering home operations, health, finances, career planning, work ops, and horse training — is the most ambitious expression of this. But it's one project among many. The throughline is the pace and the intentionality: I am constantly learning, constantly shipping, constantly recalibrating.
 
@@ -22,16 +22,16 @@ I believe the skill of management is increasingly the skill of AI. I'm positioni
 
 ---
 
-## The Career
+## My Career
 
 16+ years in data and digital. The through-line: I build things from zero to one.
 
 - Built Gap Inc.'s Digital Analytics function from scratch, then built the Enterprise BI Center of Excellence — 5,000+ weekly active users across a $16B brand portfolio (Old Navy, Gap, Banana Republic, Athleta), then led Customer Data Strategy - bringing together business requirements + technical delivery.
-- Built Herbalife's global digital performance organization — measurement strategy, campaign ops, and comms platform across global markets
-- Scaled digital analytics capabilities supporting $5B+ in e-commerce revenue
+- Built Herbalife's global digital performance organization — measurement strategy, campaign ops, and comms platform across global markets from 0 to 1.
+- Scaled digital analytics capabilities supporting $8B+ in e-commerce revenue at Victoria's Secret.
 - Presented digital strategy to boards and executive leadership teams across multiple organizations
 
-I'm at my best when the org is a blank slate and someone needs to build the system that didn't exist yet. I design operating models, stand up new capabilities, and connect measurement to commercial outcomes across markets.
+I'm at my best when the org is a blank slate and someone needs to build the system that doesn't exist yet. I design operating models, stand up new capabilities, and connect measurement to commercial outcomes across markets.
 
 CliftonStrengths top 5: **Learner · Futurist · Competition · Focus · Maximizer.** Strategic Thinking domain. I absorb new domains fast, see what's possible before others name it, and don't know how to do something halfway.
 
@@ -39,9 +39,9 @@ CliftonStrengths top 5: **Learner · Futurist · Competition · Focus · Maximiz
 
 ## The Rest of It
 
-MBA in Business Analytics (Ohio University). Communications undergrad, top thesis award (Grand Valley State). Certified Pilates instructor — I teach in Ada, Michigan and hold a prenatal/postpartum specialty. Certified Scrum Product Owner. Design Thinking practitioner.
+MBA in Business Analytics & Executive Management. Certified Pilates instructor — I teach in Ada, Michigan and hold a prenatal/postpartum specialty. Certified Scrum Product Owner. Design Thinking practitioner.
 
-I run a small farm in West Michigan: a 17-hand Warmblood named Odin, a little pony named Snickerdoodles, bees, chickens, ducks, and a dog. I've considered getting a PhD purely because I love learning that much. Currently studying Python and German (A2 — the French club in college helped lay the groundwork).
+I run a small farm in West Michigan: a 17-hand Warmblood named Odin, a little pony named Snickerdoodles, a bunny, bees, chickens, ducks, and a dog. I've considered getting a PhD purely because I love learning that much. Currently studying Python and German (A2 — the French club in college helped lay the groundwork).
 
 The reason I build any of this: I'm a mother of three young kids trying to be the best version of myself for them while building a fulfilling career and actually showing up for my hobbies. Anything that makes my life run smoother is in service to those things.
 
@@ -80,4 +80,4 @@ The reason I build any of this: I'm a mother of three young kids trying to be th
 
 ---
 
-*Builder. Strategist. Daily shipper. Farmer. Somehow doing all of it at once.*
+*Builder. Strategist. Daily shipper. Farmer. Having so much fun doing all of it at once!*
