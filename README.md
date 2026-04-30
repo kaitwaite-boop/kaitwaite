@@ -1,8 +1,6 @@
 # Hi, I'm Kate 👋
 
-I'm a Director of Digital at a global company, a mother of three, a farm owner, and a Pilates instructor. I also ship AI tools almost every day — not because my job requires it, but because I can't stop.
-
-I lead with strategy and execute with my hands. I think that combination is increasingly necessary.
+I'm a Director of Digital at a global company, a mother of three, a farm owner, and a Pilates instructor. I also ship AI tools every day because I love it!
 
 ---
 
